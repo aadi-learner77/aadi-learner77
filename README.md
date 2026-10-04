@@ -43,15 +43,15 @@
 
 **Languages:**
 
-<img src="https://skillicons.dev/icons?i=java,ts,js,python,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,html,css" />
 
 **Frameworks & Libraries:**
 
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nodejs" />
 
 **Databases & Backend:**
 
-<img src="https://skillicons.dev/icons?i=supabase,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase" />
 
 **Editors & IDEs:**
 
