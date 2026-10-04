@@ -70,10 +70,8 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadi-learner77&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aadi-learner77&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=aadi-learner77&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="Total Contributions" />
 </p>
 
 <p align="center">
